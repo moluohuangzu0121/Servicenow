@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_issue_date" label="発行日" language="ja" table="x_578659_ps_estimate_header">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_issue_date</element>
+            <help/>
+            <hint/>
+            <label>発行日</label>
+            <language>ja</language>
+            <name>x_578659_ps_estimate_header</name>
+            <plural>発行日s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-14 08:32:17</sys_created_on>
+            <sys_id>a7eceeb52f77701057682ea62799b6f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>発行日</sys_name>
+            <sys_package display_value="PS企業向け販売管理システム" source="x_578659_ps">9821f87d2f3f301057682ea62799b613</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PS企業向け販売管理システム">9821f87d2f3f301057682ea62799b613</sys_scope>
+            <sys_update_name>sys_documentation_x_578659_ps_estimate_header_u_issue_date_ja</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-14 08:32:17</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

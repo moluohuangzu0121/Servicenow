@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_item" table="x_578659_ps_estimate_detail" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_item</element>
+            <name>x_578659_ps_estimate_detail</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-14 08:38:35</sys_created_on>
+            <sys_id>bb5e66392f77701057682ea62799b68a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_item</sys_name>
+            <sys_package display_value="PS企業向け販売管理システム" source="x_578659_ps">9821f87d2f3f301057682ea62799b613</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PS企業向け販売管理システム">9821f87d2f3f301057682ea62799b613</sys_scope>
+            <sys_update_name>sys_choice_x_578659_ps_estimate_detail_u_item</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-14 08:38:35</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_item</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ノートパソコン</label>
+            <language>en</language>
+            <name>x_578659_ps_estimate_detail</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-14 08:38:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>314e6a392f77701057682ea62799b636</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-14 08:38:35</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_item</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>プリンター</label>
+            <language>en</language>
+            <name>x_578659_ps_estimate_detail</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-14 08:38:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7d6ea2392f77701057682ea62799b64f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-14 08:38:50</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

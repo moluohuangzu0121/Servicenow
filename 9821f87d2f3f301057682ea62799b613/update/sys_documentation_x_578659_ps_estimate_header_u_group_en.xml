@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_group" label="所属" language="en" table="x_578659_ps_estimate_header">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_group</element>
+            <help/>
+            <hint/>
+            <label>所属</label>
+            <language>en</language>
+            <name>x_578659_ps_estimate_header</name>
+            <plural>所属s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-14 08:34:18</sys_created_on>
+            <sys_id>016da6f52f77701057682ea62799b6db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>所属</sys_name>
+            <sys_package display_value="PS企業向け販売管理システム" source="x_578659_ps">9821f87d2f3f301057682ea62799b613</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PS企業向け販売管理システム">9821f87d2f3f301057682ea62799b613</sys_scope>
+            <sys_update_name>sys_documentation_x_578659_ps_estimate_header_u_group_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-14 08:34:18</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

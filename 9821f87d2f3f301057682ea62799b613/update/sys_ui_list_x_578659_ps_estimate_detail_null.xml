@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_578659_ps_estimate_detail" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_amt</element>
+            <list_id display_value="x_578659_ps_estimate_detail" element="NULL" name="x_578659_ps_estimate_detail" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ffcfa2b92f77701057682ea62799b60d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-14 08:44:51</sys_created_on>
+            <sys_id>f7cfa2b92f77701057682ea62799b60f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-14 08:44:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_item</element>
+            <list_id display_value="x_578659_ps_estimate_detail" element="NULL" name="x_578659_ps_estimate_detail" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ffcfa2b92f77701057682ea62799b60d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-14 08:44:51</sys_created_on>
+            <sys_id>7fcfa2b92f77701057682ea62799b60f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-14 08:44:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_parent</element>
+            <list_id display_value="x_578659_ps_estimate_detail" element="NULL" name="x_578659_ps_estimate_detail" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ffcfa2b92f77701057682ea62799b60d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-14 08:44:51</sys_created_on>
+            <sys_id>ffcfa2b92f77701057682ea62799b60f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-14 08:44:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_price</element>
+            <list_id display_value="x_578659_ps_estimate_detail" element="NULL" name="x_578659_ps_estimate_detail" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ffcfa2b92f77701057682ea62799b60d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-14 08:44:51</sys_created_on>
+            <sys_id>73cfa2b92f77701057682ea62799b610</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-14 08:44:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_quantity</element>
+            <list_id display_value="x_578659_ps_estimate_detail" element="NULL" name="x_578659_ps_estimate_detail" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ffcfa2b92f77701057682ea62799b60d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-14 08:44:51</sys_created_on>
+            <sys_id>f3cfa2b92f77701057682ea62799b610</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-14 08:44:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_578659_ps_estimate_detail</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-14 08:44:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ffcfa2b92f77701057682ea62799b60d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_578659_ps_estimate_detail</sys_name>
+            <sys_package display_value="PS企業向け販売管理システム" source="x_578659_ps">9821f87d2f3f301057682ea62799b613</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PS企業向け販売管理システム">9821f87d2f3f301057682ea62799b613</sys_scope>
+            <sys_update_name>sys_ui_list_x_578659_ps_estimate_detail_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-14 08:44:51</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
