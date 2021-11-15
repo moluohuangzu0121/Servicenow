@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="estimate_detail" max_length="40" name="x_578659_ps_estimate_detail" sizeclass="0" type="collection">
+        <element label="金額" max_length="20" name="u_amt" type="decimal"/>
+        <element choice="1" label="品目" max_length="40" name="u_item" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="ノートパソコン" value="1"/>
+                <element inactive_on_update="false" label="プリンター" value="2"/>
+            </choice>
+        </element>
+        <element label="親" max_length="32" name="u_parent" reference="x_578659_ps_estimate_header" type="reference"/>
+        <element label="単価" max_length="20" name="u_price" type="decimal"/>
+        <element label="数量" max_length="40" name="u_quantity" type="integer"/>
+        <index name="index">
+            <element name="u_parent"/>
+        </index>
+    </element>
+</database>

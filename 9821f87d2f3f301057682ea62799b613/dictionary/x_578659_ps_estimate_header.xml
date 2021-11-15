@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="estimate_header" max_length="40" name="x_578659_ps_estimate_header" sizeclass="2" type="collection">
+        <element label="金額合計" max_length="20" name="u_amt_total" type="decimal"/>
+        <element label="見積番号" max_length="4" name="u_estimate_no" type="string"/>
+        <element label="所属" max_length="100" name="u_group" type="string"/>
+        <element label="発行日" max_length="40" name="u_issue_date" type="glide_date"/>
+        <element label="担当者" max_length="32" name="u_user" reference="sys_user" type="reference"/>
+    </element>
+</database>
